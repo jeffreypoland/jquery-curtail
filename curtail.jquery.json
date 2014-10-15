@@ -3,7 +3,7 @@
     "title": "jQuery Curtail",
     "description": "This jQuery plugin truncates extended text or div content.",
     "keywords": ["truncate", "crop", "caption", "hide", "show", "expand", "ui"],
-    "version": "1.0.0",
+    "version": "0.0.1",
     "author": {
         "name": "Jeffrey Poland",
         "url": "http://www.jeffreyjpoland.com"
