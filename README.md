@@ -2,6 +2,61 @@
 
 jQuery Curtail truncates extended text or div content and appends a toggle link in its place to allow a user to reveal or hide the truncated content.
 
+##How to Use
+How to use
+==========
+
+=> Requires jQuery (minimaly jQuery 1.7.0)
+=> Include curtail.js
+=> Include curtail.css
+
+=> Use this HTML markup:
+
+```html
+	<div class="curtail"> 
+ 
+      <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut
+      urna blandit, volutpat arcu ac, commodo sapien. Quisque at lacus nisl. 
+      Aenean vitae lobortis purus. Proin eget vehicula nulla. Sed tincidunt quam 
+      justo, non rutrum arcu pharetra vel. Nulla eget leo ut urna rutrum accumsan. 
+      Vestibulum varius commodo risus, a ornare purus fringilla ut. Praesent feugiat 
+      massa bibendum, porta magna ut, tempor nunc. Duis sit amet pretium libero. 
+      In hac habitasse platea dictumst.Lorem ipsum dolor sit amet, consectetur 
+      adipiscing elit. Aliquam ut urna blandit, volutpat arcu ac, commodo sapien.
+      Quisque at lacus nisl.Aenean vitae lobortis purus. Proin eget vehicula nulla. 
+      Sed tincidunt quam justo, non rutrum arcu pharetra vel. Nulla eget leo ut 
+      urna rutrum accumsan. Vestibulum varius commodo risus, a ornare purus fringilla 
+      ut. Praesent feugiat massa bibendum, porta magna ut, tempor nunc. Duis sit amet
+      pretium libero. In hac habitasse platea dictumst. 
+      </p> 
+ 
+ 
+      <p> 
+      Consectetur adipiscing elit. Aliquam ut urna blandit, volutpat arcu ac, commodo sapien.
+      Quisque at lacus nisl. Aenean vitae lobortis purus. Proin eget vehicula nulla. 
+      Sed tincidunt quam justo, non rutrum arcu pharetra vel. Nulla eget leo ut urna rutrum 
+      accumsan. Vestibulum varius commodo risus, a ornare purus fringilla ut. Praesent feugiat 
+      massa bibendum, porta magna ut, tempor nunc. Duis sit amet pretium libero. In hac 
+      habitasse platea dictumst.
+      </p> 
+ 
+	 </div> 
+ 
+ 
+     <p class="curtail"> 
+ 
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut urna blandit, volutpat 
+      arcu ac, commodo sapien. Quisque at lacus nisl. Aenean vitae lobortis purus. Proin eget 
+      vehicula nulla. Sed tincidunt quam justo, non rutrum arcu pharetra vel. Nulla eget leo ut 
+      urna rutrum accumsan. Vestibulum varius commodo risus, a ornare purus fringilla ut. 
+      Praesent feugiat massa bibendum, porta magna ut, tempor nunc. Duis sit amet pretium libero. 
+      In hac habitasse platea dictumst.
+ 
+     </p>
+```
+
+
 ##Options
 
 ###More
