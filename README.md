@@ -3,12 +3,9 @@
 jQuery Curtail truncates extended text or div content and appends a toggle link in its place to allow a user to reveal or hide the truncated content.
 
 ##How to Use
-How to use
-==========
-
-=> Requires jQuery (minimaly jQuery 1.7.0)
-=> Include curtail.js
-=> Include curtail.css
+- Requires jQuery (minimaly jQuery 1.7.0)
+- Include curtail.js
+- Include curtail.css
 
 => Use this HTML markup:
 
