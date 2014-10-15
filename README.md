@@ -10,6 +10,7 @@ jQuery Curtail truncates extended text or div content and appends a toggle link 
 => Use this HTML markup:
 
 ```html
+    // For Div setup
 	<div class="curtail"> 
  
       <p>
@@ -40,7 +41,7 @@ jQuery Curtail truncates extended text or div content and appends a toggle link 
  
 	 </div> 
  
- 
+ 	// For paragraph setup
      <p class="curtail"> 
  
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut urna blandit, volutpat 
