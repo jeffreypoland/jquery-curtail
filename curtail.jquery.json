@@ -1,0 +1,26 @@
+{
+    "name": "curtail",
+    "title": "jQuery Curtail",
+    "description": "This jQuery plugin truncates extended text or div content.",
+    "keywords": ["truncate", "crop", "caption", "hide", "show", "expand", "ui"],
+    "version": "1.0.0",
+    "author": {
+        "name": "Jeffrey Poland",
+        "url": "http://www.jeffreyjpoland.com"
+    },
+    "maintainers": [{
+        "name": "Jeffrey Poland",
+        "url": "http://www.jeffreyjpoland.com"
+    }],
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/jeffreypoland/jquery-curtail/blob/master/LICENSE"
+    }],
+    "bugs": "https://github.com/jeffreypoland/jquery-curtail/issues",
+    "homepage": "http://www.jeffreyjpoland.com/jquery/curtail",
+    "docs": "http://www.jeffreyjpoland.com/jquery/curtail",
+    "download": "http://www.jeffreyjpoland.com/jquery/curtail/download/curtail.zip",
+    "dependencies": {
+        "jquery": ">=1.2.6"
+    }
+}
