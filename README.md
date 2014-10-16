@@ -61,7 +61,7 @@ jQuery Curtail truncates extended text or div content and appends a toggle link 
      </p>
 
      <!- Link jQuery ->
-     <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
+     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> 
  	 <!- Link Curtail ->
 	 <script src="js/curtail.min.js" type="text/javascript" charset="utf-8"></script>
 
