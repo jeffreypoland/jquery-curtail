@@ -103,4 +103,4 @@ The start height is where you set the height of you div when it is closed. The h
 $('div.myClass').curtail({start_height:"100"})
 
 ##Demo
-[Curtail Demo Site](www.jeffreyjpoland.com/jquery/curtail)
+[Curtail Demo Site](https://www.jeffreyjpoland.com/jquery/curtail/)
