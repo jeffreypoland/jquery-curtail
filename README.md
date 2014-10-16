@@ -7,11 +7,11 @@ jQuery Curtail truncates extended text or div content and appends a toggle link 
 - Include curtail.js
 - Include curtail.css
 
-=> Use this HTML markup:
+=> Use this HTML markup and include jquery, curtail.min.js, and curtail.css:
 
 ```html
     <head>
-    	<!- Link CSS ->
+    <!- Link CSS ->
 	 <link href="css/curtail.css" rel="stylesheet">
     </head>
     
@@ -59,10 +59,10 @@ jQuery Curtail truncates extended text or div content and appends a toggle link 
       In hac habitasse platea dictumst.
  
      </p>
-     
-     <!- Link jQuery and curtail.min.js ->
+
+     <!- Link jQuery ->
      <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
- 		/*Include Curtail*/
+ 	 <!- Link Curtail ->
 	 <script src="js/curtail.min.js" type="text/javascript" charset="utf-8"></script>
 
 	 </body>
